@@ -7,7 +7,7 @@ from fastapi.responses import FileResponse
 
 app = FastAPI()
 
-os.environ["OPENAI_API_KEY"] = "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"  # OPENAI_API_KEY
+os.environ["OPENAI_API_KEY"] = "sk-"  # OPENAI_API_KEY
 
 client = openai.OpenAI()
 
