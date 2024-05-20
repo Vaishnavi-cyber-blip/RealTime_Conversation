@@ -34,6 +34,7 @@ Ensure you have access to the Groq LLM and obtain the necessary credentials.
 Create a .env file in the root directory of your project and add the following:
 
 DEEPGRAM_API_KEY=your_deepgram_api_key
+
 GROQ_LLM_API_KEY=your_groq_llm_api_key
 
 ## Contributing
