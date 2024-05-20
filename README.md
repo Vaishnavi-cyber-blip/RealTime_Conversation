@@ -7,9 +7,17 @@ This documentation provides a comprehensive guide to creating and deploying a ch
 Before starting, ensure you have the following:
 
 Python 3.7 or higher
+
 Deepgram API Key
+
 Groq LLM access credentials
+
 Streamlit installed
+
 Basic knowledge of Python
+
+## Install Required Packages
+
+pip install -r requirements.txt
 
 
