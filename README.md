@@ -21,20 +21,19 @@ Basic knowledge of Python
 pip install -r requirements.txt
 
 ## Configuration
-Deepgram API
+### Deepgram API
 
 Sign up for Deepgram and obtain your API key from the Deepgram Console.
 
-Groq LLM
+### Groq LLM
 
 Ensure you have access to the Groq LLM and obtain the necessary credentials.
 
-Environment Variables
+### Environment Variables
 
 Create a .env file in the root directory of your project and add the following:
 
 DEEPGRAM_API_KEY=your_deepgram_api_key
-
 GROQ_LLM_API_KEY=your_groq_llm_api_key
 
 ## Contributing
