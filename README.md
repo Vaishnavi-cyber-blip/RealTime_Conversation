@@ -1,6 +1,5 @@
 # Audio and Text Chatbot
 
-## Introduction
 This documentation provides a comprehensive guide to creating and deploying a chatbot using Deepgram API for speech-to-text (STT), text-to-speech (TTS), Groq LLM for natural language processing, and Streamlit for the web interface. The chatbot allows users to interact through voice and text, providing a seamless conversational experience.
 
 ## Prerequisites
@@ -10,7 +9,7 @@ Before starting, ensure you have the following:
 
 -Deepgram API Key
 
--Groq LLM access credentials
+-Groq api key access credentials
 
 -Streamlit installed
 
@@ -24,10 +23,6 @@ pip install -r requirements.txt
 ### Deepgram API
 
 Sign up for Deepgram and obtain your API key from the Deepgram Console.
-
-### Groq LLM
-
-Ensure you have access to the Groq LLM and obtain the necessary credentials.
 
 ### Environment Variables
 
